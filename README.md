@@ -1,6 +1,6 @@
 # ePSXe + Standalone
 
-A Sony PlayStation 1 (PSone, PSX) emulator, play your PS1 games (have many tools for Memory Card, Save States and Cheats included).
+A Sony PlayStation 1 (PSone, PSX) emulator, play your PS1 games (have many plugins and tools for Memory Card, Save States and Cheats included).
 
 
 This is a personal project, and I'm not related with ePSXe Team (http://www.epsxe.com) or PortableApps (https://portableapps.com).
